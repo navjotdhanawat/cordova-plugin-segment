@@ -35,10 +35,10 @@ public class AnalyticsPlugin extends CordovaPlugin {
         LogLevel logLevel;
 
         if(BuildConfig.DEBUG) {
-            writeKeyPreferenceName = "analytics_debug_write_key";
+            writeKeyPreferenceName = "gTH3muy5kB3Ke5iqCKdHKTu9eMZApyBk";
             logLevel = LogLevel.VERBOSE;
         } else {
-            writeKeyPreferenceName = "analytics_write_key";
+            writeKeyPreferenceName = "gTH3muy5kB3Ke5iqCKdHKTu9eMZApyBk";
             logLevel = LogLevel.NONE;
         }
 
